@@ -2,9 +2,10 @@
 ## React Portfolio
 This repository contains a customizable and responsive personal portfolio built with React.js, showcasing your skills, projects, and work experience. The portfolio is designed to be easily modified to match your personal brand and style.
 
-## Screenshot
+## Screenshot![Screenshot 2023-03-26 at 5 28 20 PM](https://user-images.githubusercontent.com/114682284/227808689-f92a2440-9087-4ea9-9789-83fa18700f76.png)
 
-## Link to Deployed Page:
+
+## Link to Deployed Page: https://reactportfolioamish.herokuapp.com/#top
 
 ## Features
 * Responsive design, optimized for mobile, tablet, and desktop devices.
