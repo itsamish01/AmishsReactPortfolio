@@ -25,7 +25,7 @@ This repository contains a customizable and responsive personal portfolio built 
 ## Installation
 
 1. Clone the repository:
-* git clone https://github.com/your_username/react-portfolio.git
+* git clone https://github.com/itsamish01/AmishsReactPortfolio
 
 2. Navigate to the project directory:
 * cd react-portfolio
