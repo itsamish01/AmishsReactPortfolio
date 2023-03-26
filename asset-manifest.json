@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/AmishsReactPortfolio/static/css/main.d56fee22.css",
+    "main.js": "/AmishsReactPortfolio/static/js/main.f70afe8c.js",
+    "static/js/787.0c26816f.chunk.js": "/AmishsReactPortfolio/static/js/787.0c26816f.chunk.js",
+    "static/media/5.png": "/AmishsReactPortfolio/static/media/5.f512dd201f6006b54a42.png",
+    "static/media/2.png": "/AmishsReactPortfolio/static/media/2.8433440bbf41089c1ec8.png",
+    "static/media/6.png": "/AmishsReactPortfolio/static/media/6.cf2ffbcfbb9d53c0e771.png",
+    "static/media/3.png": "/AmishsReactPortfolio/static/media/3.096ec6d38d294d70c662.png",
+    "static/media/Avatar.png": "/AmishsReactPortfolio/static/media/Avatar.e7fb8d06e97a7570148c.png",
+    "static/media/4.png": "/AmishsReactPortfolio/static/media/4.db10a9a610ba60765563.png",
+    "static/media/1.png": "/AmishsReactPortfolio/static/media/1.a1fe19917a0923159320.png",
+    "index.html": "/AmishsReactPortfolio/index.html",
+    "main.d56fee22.css.map": "/AmishsReactPortfolio/static/css/main.d56fee22.css.map",
+    "main.f70afe8c.js.map": "/AmishsReactPortfolio/static/js/main.f70afe8c.js.map",
+    "787.0c26816f.chunk.js.map": "/AmishsReactPortfolio/static/js/787.0c26816f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d56fee22.css",
+    "static/js/main.f70afe8c.js"
+  ]
+}
